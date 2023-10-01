@@ -6,7 +6,7 @@ This project improves the codebase for long-term sustainability by refactoring t
 
 ## Installation
 
-The project is deployed to GitHub Pages:  
+The project is deployed to GitHub Pages: https://erik-aku.github.io/Horiseon-Marketing-Firm/  
 
 
 ![HoriseonFinal](https://github.com/Erik-Aku/Horiseon-Marketing-Firm/assets/92487526/f7e7203e-8bdf-4357-b5e3-4ff3a17c555b)
