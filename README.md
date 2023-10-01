@@ -8,3 +8,6 @@ refactoring the existing webpage to meet accessibility requirements so that it i
 ## Installation
 
 The project is deployed to GitHub Pages:  
+
+
+![HoriseonFinal](https://github.com/Erik-Aku/Horiseon-Marketing-Firm/assets/92487526/f7e7203e-8bdf-4357-b5e3-4ff3a17c555b)
